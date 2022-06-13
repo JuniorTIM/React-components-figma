@@ -1,0 +1,80 @@
+.noll {
+position: absolute;
+width: 182px;
+height: 339px;
+left: 628px;
+top: 112px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 288px;
+line-height: 339px;
+
+text-align: center;
+color: #F27C0F;
+}
+
+.buttonsBox {
+    position: absolute;
+    width: 710px;
+    height: 58px;
+    left: 365px;
+    top: 481px;
+}
+
+.buttonPlus {
+width: 200px;
+height: 58px;
+
+background: #003399;
+border: #003399;
+border-radius: 4px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.buttonMinus {
+    width: 200px;
+    height: 58px;
+    margin-left: 55px;
+
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    
+    color: #FFFFFF;
+
+    background: #F27C0F;
+    border: #F27C0F;
+    border-radius: 4px;
+}
+
+.buttonReset {
+    width: 200px;
+    height: 58px;
+    margin-left: 55px;
+
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    
+    color: #000000;
+
+    background: #E5E5E5;
+    border: #E5E5E5;
+    border-radius: 4px;
+}

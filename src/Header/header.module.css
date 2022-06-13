@@ -1,0 +1,103 @@
+/* Коробка лого */
+
+.counterLogoBox {
+position: absolute;
+width: 169px;
+height: 52px;
+left: 335px;
+top: 15px;
+}
+
+/* Лого буквы С*/
+
+.logoC {
+position: absolute;
+width: 50px;
+height: 50px;
+left: 335px;
+top: 17px;
+}
+
+/* Буквы ounter */
+
+.logoText {
+position: absolute;
+width: 119px;
+height: 47px;
+left: 385px;
+top: 15px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 39px;
+line-height: 47px;
+
+color: #F27C0F;
+}
+
+/* Главная */
+
+.main {
+position: absolute;
+width: 90px;
+height: 28px;
+left: 781px;
+top: 28px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #003399;
+}
+
+/* О нас */
+
+.we {
+position: absolute;
+width: 68px;
+height: 28px;
+left: 901px;
+top: 28px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #003399;
+}
+
+/* Контакты */
+
+.contacts {
+position: absolute;
+width: 106px;
+height: 28px;
+left: 999px;
+top: 28px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #003399;
+}
+
+/* Линия */
+
+.line {
+position: absolute;
+width: 770px;
+height: 0px;
+left: 335px;
+top: 82px;
+
+border: 1px solid rgba(0, 0, 0, 0.05);
+}

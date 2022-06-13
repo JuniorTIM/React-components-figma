@@ -1,0 +1,97 @@
+.imgBox {
+position: absolute;
+width: 98px;
+height: 30px;
+left: 336px;
+top: 760px;
+}
+
+.logo1 {
+position: absolute;
+left: 0%;
+right: 71.31%;
+top: 3.85%;
+bottom: 0%;
+}
+
+.logo2 {
+position: absolute;
+left: 30.35%;
+right: 0.48%;
+top: 23.15%;
+bottom: 27.8%;
+}
+
+.partner {
+position: absolute;
+width: 87px;
+height: 19px;
+left: 464px;
+top: 766px;
+
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+text-align: center;
+
+color: rgba(0, 0, 0, 0.5);
+}
+
+.developers {
+    position: absolute;
+    width: 118px;
+    height: 19px;
+    left: 581px;
+    top: 766px;
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.5);
+    
+}
+
+.work {
+    position: absolute;
+    width: 74px;
+    height: 19px;
+    left: 729px;
+    top: 766px;
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.intocode {
+    position: absolute;
+    width: 169px;
+    height: 19px;
+    left: 936px;
+    top: 766px;
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.5);
+    
+}
